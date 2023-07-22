@@ -2741,6 +2741,18 @@ details.collapse summary::-webkit-details-marker{
     margin-right: auto;
   }
 
+  .md\:block{
+    display: block;
+  }
+
+  .md\:flex{
+    display: flex;
+  }
+
+  .md\:hidden{
+    display: none;
+  }
+
   .md\:w-1\/2{
     width: 50%;
   }
